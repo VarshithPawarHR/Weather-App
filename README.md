@@ -14,8 +14,7 @@ The Weather App is a web application that allows users to check the weather fore
 - **HTML:** Provides the structure and content of the web app.
 - **CSS:** Styles the HTML elements for an intuitive and user-friendly interface.
 
-## Demo
-[Insert a screenshot or GIF here to showcase the Weather App interface]
+
 
 ## Getting Started
 1. Clone the repository:
