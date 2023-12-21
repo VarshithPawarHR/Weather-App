@@ -5,9 +5,8 @@ The Weather App is a web application that allows users to check the weather fore
 
 ## Features
 - **Current Weather:** Display current weather conditions for a user-specified location.
-- **5-Day Forecast:** Show a detailed 5-day weather forecast including temperature, humidity, wind speed, etc.
-- **Search Functionality:** Allow users to search for weather information based on city names or ZIP codes.
-- **Responsive Design:** Ensure the app is accessible and works well across various devices.
+- **Search Functionality:** Allow users to search for weather information based on city names 
+- **Responsive Design:** Ensure the web-app is accessible and works well across various devices.
 
 ## Technologies Used
 - **JavaScript:** Fetches weather data from the API and handles app functionality.
